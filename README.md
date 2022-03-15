@@ -11,6 +11,7 @@ The architecture used in the work is shown below and the code can be found in `t
 A sample generation of optical image by the proposed model is give below, blur and radiometry saturations are still observed in the generated data
 
 <div align='center'>
-<img src = 'Working2.png'>
+<img src = 'Working2.png'
+     width="200" 
+     height="200">
 </div>
-
